@@ -5,4 +5,4 @@ answer which documents have some words that are searched in the console using BO
 
 The project structureis the following: 
 <br/>
-[Alt text](/Information_Retrieval_Project/Reports/Project_Structure.png?raw=true "Project Structure")
+<img src="./Reports/Project_Structure.png?" width="512">
