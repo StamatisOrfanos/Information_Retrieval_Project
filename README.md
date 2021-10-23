@@ -4,4 +4,4 @@ This repository is a project made by me for the subject named "Information Retri
 answer which documents have some words that are searched in the console using BOOLE algebra or phrase query. 
 
 The project structureis the following:
-![Alt text](/Information_Retrieval_Project/blob/main/Project_Structure.png?raw=true "Project Structure")
+[Alt text](/Information_Retrieval_Project/blob/main/Project_Structure.png?raw=true "Project Structure")
